@@ -1,0 +1,9 @@
+﻿  module_LTR_1.cpp
+C:\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_1.cpp(84,113): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_1.cpp(163,8): warning C4101: end: неиспользованная локальная переменная
+C:\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_1.cpp(146,8): warning C4101: ExitCode: неиспользованная локальная переменная
+C:\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_1.cpp(605,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_1.cpp(246,6): warning C4101: ltr_result: неиспользованная локальная переменная
+C:\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_1.cpp(257,8): warning C4101: data: неиспользованная локальная переменная
+C:\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_1.cpp(261,6): warning C4101: BlockNumber: неиспользованная локальная переменная
+  LTR_EU_2.vcxproj -> C:\PSOD_NEVA2\LTR_EU_2\x64\Debug\LTR_EU_2.exe

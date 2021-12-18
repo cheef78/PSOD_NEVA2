@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!-- general -->
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <!-- ZMQ_USE_TWEETNACL defined in packaged builds and must be defined for package consumer. -->
+      <AdditionalIncludeDirectories>$(MSBuildThisFileDirectory)include\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+	  <AdditionalDependencies>$(MSBuildThisFileDirectory)$(Platform)\lib\*.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  
+  <ItemGroup>
+    <ReferenceCopyLocalPaths Include="$(MSBuildThisFileDirectory)$(Platform)\dll\*.dll" />
+  </ItemGroup>	
+</Project>
