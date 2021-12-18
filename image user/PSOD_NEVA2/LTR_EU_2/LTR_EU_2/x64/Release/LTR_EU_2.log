@@ -1,0 +1,20 @@
+﻿  LTR_EU_2.cpp
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\LTR_EU_2.cpp(16,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\LTR_EU_2.cpp(17,20): warning C4101: dwThrdParam: неиспользованная локальная переменная
+  module_LTR_1.cpp
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_1.cpp(66,113): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_1.cpp(129,8): warning C4101: ExitCode: неиспользованная локальная переменная
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_1.cpp(539,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_1.cpp(294,8): warning C4101: data: неиспользованная локальная переменная
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_1.cpp(307,6): warning C4101: BlockNumber: неиспользованная локальная переменная
+  module_LTR_2.cpp
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_2.cpp(65,113): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_2.cpp(149,8): warning C4101: ExitCode: неиспользованная локальная переменная
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_2.cpp(559,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_2.cpp(314,8): warning C4101: data: неиспользованная локальная переменная
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_2.cpp(327,6): warning C4101: BlockNumber: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 363 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  LTR_EU_2.vcxproj -> C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\x64\Release\LTR_EU_2.exe

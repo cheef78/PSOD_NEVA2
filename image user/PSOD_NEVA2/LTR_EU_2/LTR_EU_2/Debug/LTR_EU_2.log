@@ -1,0 +1,14 @@
+﻿  module_LTR_1.cpp
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_1.cpp(68,113): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_1.cpp(131,8): warning C4101: ExitCode: неиспользованная локальная переменная
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_1.cpp(557,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_1.cpp(308,8): warning C4101: data: неиспользованная локальная переменная
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_1.cpp(312,6): warning C4101: BlockNumber: неиспользованная локальная переменная
+  module_LTR_2.cpp
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_2.cpp(71,113): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_2.cpp(155,8): warning C4101: ExitCode: неиспользованная локальная переменная
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_2.cpp(582,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_2.cpp(333,8): warning C4101: data: неиспользованная локальная переменная
+C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\LTR_EU_2\module_LTR_2.cpp(336,6): warning C4101: BlockNumber: неиспользованная локальная переменная
+  Создание кода...
+  LTR_EU_2.vcxproj -> C:\Users\Sadykov.Aydar\Desktop\PSOD_NEVA2\LTR_EU_2\Debug\LTR_EU_2.exe
